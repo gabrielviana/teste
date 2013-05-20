@@ -1,6 +1,7 @@
 #include <stdio.h>
 void main(){
 int a=0,b=0,c,i,n;
+printf("bem vindo ao sistema\n");
 printf("digite um numero:\n");
 scanf("%d",&n);
 for(i=0;i<n;i++){
